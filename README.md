@@ -1,7 +1,5 @@
 # substrate_learning
 
-# 介绍
-
 用于存放 substrate 学习相关作业
 
 ## Bubbel sort
