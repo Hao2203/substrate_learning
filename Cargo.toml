@@ -1,3 +1,3 @@
 [workspace]
-members = ["bubble_sort"]
+members = ["bubble_sort", "fourth"]
 resolver = "2"
