@@ -1,4 +1,4 @@
-trait Area {
+pub trait Area {
     fn area(&self) -> f64;
 }
 
@@ -33,7 +33,7 @@ impl Area for Square {
     }
 }
 
-fn compute_area<T: Area>(shape: &T) -> f64 {
+pub fn compute_area<T: Area>(shape: &T) -> f64 {
     shape.area()
 }
 
