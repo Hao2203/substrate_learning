@@ -18,6 +18,6 @@
 
 [8、9 题代码](/pallet/pallet_poe/src/lib.rs)
 
-### 截图
+### 运行截图
 
-![网页运行截图](homework_1.png)
+![网页运行截图](image.png)
