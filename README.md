@@ -21,3 +21,11 @@
 ### 运行截图
 
 ![网页运行截图](image.png)
+
+## 第六课作业
+
+[代码](/polkadot/src/pages/index.astro)
+
+### 运行截图
+
+![运行截图](image-1.png)
