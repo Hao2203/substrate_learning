@@ -39,3 +39,18 @@
 
 1. 第 4 题: <https://github.com/Hao2203/substrate-learning-template/tree/learning>
 2. 第 5 题: <https://github.com/Hao2203/substrate-learning-template/tree/learning>
+
+## 作业 4
+
+### 问题
+
+1. 请回答链上随机数（如前面 Kitties 示例中）与链下随机数的区别
+
+```sh
+链上随机数使用链上信息生成，生成过程公开透明。
+链下随机数使在链下环境生成，生成过程不透明。
+```
+
+2. 其他问题
+
+无法完成
