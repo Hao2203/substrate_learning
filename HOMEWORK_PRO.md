@@ -67,3 +67,14 @@
 
 ![编译结果](image-8.png)
 ![部署结果](image-9.png)
+
+## 作业 6
+
+### 运行截图
+
+![图片1](image-10.png)
+![图片2](image-11.png)
+
+### 源码链接
+
+<https://github.com/Hao2203/substrate-learning-template/tree/learning>
